@@ -38,7 +38,7 @@ Aplikasi MyTaskList adalah aplikasi manajemen tugas berbasis React Native yang m
 
 | List Kosong (Empty State) | Ada Task & Prioritas | Task Selesai + Counter |
 |:-:|:-:|:-:|
-| ![alt text](<C:\Users\hpsn\OneDrive\Desktop\mytasklist - p7\P07-mytasklist\WhatsApp Image 2026-05-02 at 10.37.23.jpeg?>)| ![alt text](<C:\Users\hpsn\OneDrive\Desktop\mytasklist - p7\P07-mytasklist\WhatsApp Image 2026-05-02 at 10.37.24.jpeg>)|![alt text](<C:\Users\hpsn\OneDrive\Desktop\mytasklist - p7\P07-mytasklist\WhatsApp Image 2026-05-02 at 10.37.24 (1).jpeg>)|
+| ![Empty State](assets/empty.jpeg) | ![Task List](assets/task.jpeg) | ![Completed](assets/done.jpeg) |
 
 ---
 
