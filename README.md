@@ -25,7 +25,7 @@ Aplikasi MyTaskList adalah aplikasi manajemen tugas berbasis React Native yang m
 
 ### Fitur Bonus
 - [x] ⭐ **Mark as Done (+5)** — Centang task yang sudah selesai; tampilan task berubah (strikethrough + opacity)
-- [x] ⭐ **Prioritas Task (+5)** — Tiga level: Tinggi 🔴 / Sedang 🟡 / Rendah 🟢, masing-masing dengan warna aksen dan badge berbeda
+- [x] ⭐ **Prioritas Task (+5)** — Tiga level: Tinggi / Sedang / Rendah, masing-masing dengan warna aksen dan badge berbeda
 - [x] ⭐ **Deploy ke Expo Snack (+10)** — Project dapat langsung di akses dan di demo
 - [x] ⭐ **Counter (+5)** — "X / Y selesai" ditampilkan di header dalam komponen counter box
 - [x] ⭐ **Filter View (+5)** — Tab filter: Semua / Aktif / Selesai, dengan `ListEmptyComponent` kontekstual per-filter
