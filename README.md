@@ -56,8 +56,8 @@ Aplikasi MyTaskList adalah aplikasi manajemen tugas berbasis React Native yang m
 
 ```bash
 # 1. Clone repository
-git clone 
-cd MyTaskList-App
+git clone https://github.com/mikaelllp/P07-mytasklist.git
+cd P07-mytasklist
 
 # 2. Install dependencies
 npm install
