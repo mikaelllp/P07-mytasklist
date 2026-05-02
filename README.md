@@ -36,10 +36,23 @@ Aplikasi MyTaskList adalah aplikasi manajemen tugas berbasis React Native yang m
 
 ## 📸 Screenshot
 
-| List Kosong (Empty State) | Ada Task & Prioritas | Task Selesai + Counter |
-|:-:|:-:|:-:|
-| ![Empty State](assets/empty.jpeg) | ![Task List](assets/task.jpeg) | ![Completed](assets/done.jpeg) |
+<p align="center">
 
+<table>
+  <tr>
+    <td align="center"><b>List Kosong (Empty State)</b></td>
+    <td align="center"><b>Ada Task & Prioritas</b></td>
+    <td align="center"><b>Task Selesai + Counter</b></td>
+  </tr>
+
+  <tr>
+    <td><img src="assets/empty.jpeg" width="200"/></td>
+    <td><img src="assets/task.jpeg" width="200"/></td>
+    <td><img src="assets/done.jpeg" width="200"/></td>
+  </tr>
+</table>
+
+</p>
 ---
 
 ## 🚀 Cara Menjalankan Project
